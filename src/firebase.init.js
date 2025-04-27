@@ -9,7 +9,7 @@ import { getAuth } from "firebase/auth";
 
 // DANGER DONOT SHARE CONFIG IN PUBLIC
 
-const firebaseConfig = {
+const firebaseConfig = { 
   apiKey: "AIzaSyBwbrdTiEjU70wXJx2FaBaguKCq9zP6XDQ",
   authDomain: "auth-integration-dc0fe.firebaseapp.com",
   projectId: "auth-integration-dc0fe",
